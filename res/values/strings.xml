@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World</string>
+    <string name="app_name">Easy Trip</string>
+    <string-array name="hotelChain">
+        <item>---None---</item>
+        <item>Marriot</item>
+        <item>Hilton</item>
+        <item>Hyatt</item>
+        <item>Intercontinental</item>
+        <item>Accor</item>
+    </string-array>
+    <string name="btnLogin">Login</string>
+</resources>
